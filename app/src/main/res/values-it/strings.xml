@@ -11,9 +11,9 @@
 
     <string name="button_start_record_activity">Registra nuovo</string>
 
-    <string name="sdcard_readonly">Scheda SD di sola lettura. Ringdroid richiede una scheda scrivibile.</string>
+    <string name="sdcard_readonly">Scheda SD in sola lettura. Ringdroid richiede una scheda riscrivibile.</string>
     <string name="no_sdcard">Impossibile eseguire Ringdroid senza una scheda SD inserita.</string>
-    <string name="sdcard_shared">Impossibile eseguire Ringdroid con il telefono impostato come periferica USB.</string>
+    <string name="sdcard_shared">Impossibile eseguire Ringdroid con il telefono impostato come archivio USB.</string>
 
     <!--      Edit activity      -->
 
@@ -26,7 +26,7 @@
     <string name="time_seconds">secondi</string>
 
     <!-- After you save a notification or ringtone and have more options 	 for what to do with them -->
-    <string name="what_to_do_with_ringtone">Salvataggio eseguito.  Impostare come suoneria predefinita o assegnare a un contatto?</string>
+    <string name="what_to_do_with_ringtone">Salvataggio eseguito.  Impostare come suoneria predefinita o assegnare ad un contatto?</string>
     <string name="set_default_notification">Salvataggio eseguito.  Impostare come notifica predefinita?</string>
 
     <string name="make_default_ringtone_button">Imposta predefinita</string>
@@ -37,7 +37,7 @@
     <string name="progress_dialog_loading">Caricamento…</string>
     <string name="progress_dialog_recording">Recording…</string>
     <string name="progress_dialog_saving">Salvataggio…</string>
-    <string name="progress_dialog_cancel">Cancel</string>
+    <string name="progress_dialog_cancel">Annulla</string>
     <string name="progress_dialog_stop">Stop</string>
 
     <!--      Menu items      -->
@@ -45,7 +45,7 @@
     <string name="menu_save">Salva</string>
     <string name="menu_reset">Reimposta</string>
     <string name="menu_about">Info</string>
-    <string name="menu_show_all_audio">Mostra tutto audio</string>
+    <string name="menu_show_all_audio">Mostra tutto l'audio</string>
 
     <!--      Context menu items      -->
 
@@ -100,10 +100,10 @@
     <string name="default_ringtone_success_message">Suoneria predefinita cambiata</string>
     <string name="play_error">Impossibile riprodurre file multimediale</string>
     <string name="no_unique_filename">Impossibile trovare nome file univoco</string>
-    <string name="record_error">Error recording audio</string>
-    <string name="too_small_error">Impossibile salvare file troppo piccolo. Renderlo più lungo.</string>
-    <string name="write_error">Errore scrittura file</string>
-    <string name="read_error">Errore lettura file</string>
+    <string name="record_error">Errore nel registrate l' audio</string>
+    <string name="too_small_error">Impossibile salvare: file troppo piccolo. Renderlo più lungo.</string>
+    <string name="write_error">Errore nella scrittura del file</string>
+    <string name="read_error">Errore nella lettura del file</string>
 
     <string name="no_space_error">Scheda SD piena. Spazio insufficiente per salvare questo file.</string>
 
